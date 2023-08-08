@@ -1,0 +1,3 @@
+User-agent: *
+Allow:/
+sitemap:hancodings.netlify.app/sitemap.xml
